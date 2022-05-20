@@ -1,0 +1,1 @@
+Builds opencv-python with cuda enabled and then builds cuda enabled Detecto.
